@@ -1,0 +1,34 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.hero-image-container
+{
+    height: 400px;
+    overflow: hidden;
+}
+
+
+.text-purple {
+  color: rgb(70, 36, 191);
+}
+
+.hero-image {
+    width: 100%;
+}
+
+.app-icon
+{
+    max-width: 400px;
+
+}
+
+@media screen and (max-width: 800px) {
+    .top-container
+    {
+        flex-direction: column;
+    }
+}
