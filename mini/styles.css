@@ -31,4 +31,9 @@
     {
         flex-direction: column;
     }
+
+    .responsive-image
+    {
+        width: 100%;
+    }
 }
