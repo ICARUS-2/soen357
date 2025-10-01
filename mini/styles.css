@@ -27,6 +27,12 @@
 }
 
 @media screen and (max-width: 800px) {
+    .hero-image-container
+    {
+        height: 100px;
+        overflow: hidden;
+    }
+
     .top-container
     {
         flex-direction: column;
