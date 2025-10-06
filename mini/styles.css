@@ -23,7 +23,12 @@
 .app-icon
 {
     max-width: 400px;
+}
 
+.app-icon-sm
+{
+    max-width: 150px;
+    max-height: 150px;
 }
 
 .color-palette
